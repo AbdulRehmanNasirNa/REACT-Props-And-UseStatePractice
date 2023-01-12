@@ -1,0 +1,48 @@
+*{
+    margin: 0%;
+    padding: 0%;
+    box-sizing: border-box;
+
+}
+.maindiv{
+    border: 2px solid black;
+    width: 80%;
+    margin-left: 10%;
+    margin-right: 10%;
+    margin-bottom: 2%;
+    padding: 2%;
+    background-color: rgb(144, 8, 8);
+    border-radius: 40px;
+    /* margin-top: 40%; */
+
+}
+.date{
+display: inline;
+background-color: black;
+color: white;
+padding: 15px;
+border-radius: 20px;
+font-family: Arial, Helvetica, sans-serif;
+
+
+}
+.title{
+display: inline;
+margin-left: 1%;
+color: white;
+font-size: 1.4rem;
+font-family: Arial, Helvetica, sans-serif;
+
+}
+.amount{
+display: inline;
+float: right;
+background-color: white;
+color: black;
+padding: 10px;
+border-radius: 10px;
+font-family: Arial, Helvetica, sans-serif;
+margin-top: -9px;
+font-weight: 700;
+font-size: 1.3rem;
+}
